@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539030018 source:c:\users\bruna\desktop\fatec\segundo semestre\linguagem de programação\lista de exercicios vetor - moodle\11.2\main.c
+	<stdio.h>
+	<string.h>
+

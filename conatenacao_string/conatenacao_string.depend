@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538312690 source:c:\users\bruna\desktop\fatec\segundo semestre\linguagem de programação\conatenacao_string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

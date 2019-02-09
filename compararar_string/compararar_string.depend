@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538313486 source:c:\users\bruna\desktop\fatec\segundo semestre\linguagem de programação\compararar_string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
